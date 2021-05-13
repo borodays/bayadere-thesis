@@ -1,3 +1,15 @@
 .row{
     margin: 25px;
 }
+#question{
+    font-size: 150%;
+    font-family: Lato;
+    color: #301934;
+    text-align: center;
+    margin: 10px;
+    border: 5px solid darkgoldenrod;
+    border-width: 75%;
+}
+.col.mx-auto{
+    text-align: center;
+}

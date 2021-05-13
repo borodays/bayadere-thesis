@@ -80,3 +80,9 @@ h2{
 #aboutImage{
     text-align: center;
 }
+#conclusions{
+    margin: 25px;
+    text-align: justify;
+    width: 80%;
+    
+}

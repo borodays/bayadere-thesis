@@ -8,6 +8,7 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "bayadere-thesis"
+		"liveServer.settings.multiRootWorkspaceName": "thesis.io",
+		"liveServer.settings.port": 5501
 	}
 }
