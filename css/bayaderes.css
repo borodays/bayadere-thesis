@@ -1,0 +1,63 @@
+#haremPantsDesc{
+    font-size: 75%;
+}
+.navbar{
+    border: 10px darkolivegreen;
+}
+.col-sm-4, .col-sm-6{
+    text-align: center;
+}
+.tooltip .tooltiptext {
+    top: -5px;
+    right: -105%;
+}
+#pointeQuote{
+    font-size: 150%;
+    margin-bottom: 0%;
+}
+#pointe{
+    margin-bottom: 50px;
+}
+h1{
+    color:darkgoldenrod;
+}
+.row{
+    margin-bottom: 25px;
+}
+#quoteOne{
+    color:whitesmoke;
+    background-color: #301934;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: left;
+}
+#quoteTwo{
+    color: black;
+    background-color: goldenrod;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: left;
+}
+#innerQuote{
+    font-size: 85%;
+    margin-top: 10px;
+    text-align: center;
+}
+#firstQuoteCite{
+    font-size: 75%;
+    text-align: right;
+    padding-top: 10px;
+    color: darkgoldenrod;
+}
+#secondQuoteCite{
+    font-size: 75%;
+    text-align: right;
+    padding-top: 10px;
+    color: indigo;
+}
+#thirdQuoteCite{
+    font-size: 75%;
+    text-align: right;
+    padding-top: 10px;
+    color: indigo;
+}

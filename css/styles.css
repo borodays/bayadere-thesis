@@ -1,0 +1,82 @@
+.titles{
+    text-align: center;
+}
+body{
+    font-family: Merriweather;
+}
+#haremPants{
+    display:none;
+}
+video{
+    padding-bottom: 0;
+}
+a, a:visited{
+    color:darkgoldenrod;
+}
+a:hover{
+    color:#301934;
+}
+.fullBody{
+    margin-bottom: 100px;
+}
+#firstButton{
+    color: goldenrod;
+    border: 5px solid #301934;
+    background-color: #301934;
+}
+h2{
+    color: #301934;
+    text-align: justify;
+}
+h4{
+    color: darkgoldenrod;
+    text-align: justify;
+}
+#longCredits{
+    margin: 15px;
+    margin-top: 0px;
+    font-size: 80%;
+}
+#welcome{
+    margin: auto;
+    border: 5px solid darkgoldenrod;
+    width: 75%;
+    text-align: justify;
+    padding: 5px;
+}
+#firstWords{
+    font-size: 200%;
+    font-weight: bolder;
+    color: darkgoldenrod;
+    float: left;
+}
+figcaption{
+    color:darkgoldenrod;
+    font-size: 80%;
+}
+.buttonContainer{
+    margin-top: 25px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.emphasisQuote{
+    font-weight: bolder;
+    color: darkgoldenrod;
+    font-size: 125%;
+}
+.aboutText{
+    width: 75%;
+    border: 5px solid darkgoldenrod;
+    text-align: justify;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+    margin: 25px;
+}
+h2{
+    text-align: center;
+}
+#aboutImage{
+    text-align: center;
+}

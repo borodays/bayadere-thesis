@@ -1,0 +1,57 @@
+body{
+    background-color: #301934;
+    color: whitesmoke;
+}
+.heading{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: goldenrod;
+    text-align: center;
+}
+hr{
+    color: goldenrod;
+    size: 400%;
+}
+.blurb{
+    border: 2px solid goldenrod;
+    border-radius: 10px;
+    width: 35%;
+    margin: 20px;
+    text-align: center;
+    padding-top: 10px;
+}
+.verticalBlurb{
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    line-height: 0.1pt;
+    font-size: 80%;
+    color: whitesmoke;
+}
+.navbar{
+    border: 3px solid darkgoldenrod;
+}
+.navbar.bottom a, .navbar.bottom a:visited{
+    color: darkgoldenrod;
+}
+.navbar.fixed-bottom a:hover{
+    color: #301934;
+}
+.col-md-1{
+    text-align: center;
+    margin-left: 75px;
+    padding: 0px;
+}
+blockquote{
+    color: lightgoldenrodyellow;
+}
+figcaption{
+    font-size: 75%;
+    text-align: justify;
+}
+figure{
+    display: block;
+    margin: auto;
+}
+.quotes{
+    font-family: Lato;
+}

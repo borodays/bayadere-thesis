@@ -1,0 +1,32 @@
+.col-md{
+    margin: 25px;
+}
+blockquote{
+    font-family: Lato;
+}
+body{
+    margin: 25px;
+}
+.description{
+    font-size: 85%;
+    margin: 0px;
+}
+#subtitle{
+    font-size: 150%;
+    font-family: Merriweather;
+    color: goldenrod;
+    margin-bottom: 0px;
+}
+#subCaption{
+    font-size: 75%;
+    color: black;
+}
+#introText{
+    text-align: center;
+    color: goldenrod;
+}
+#emphasisQuote{
+    font-weight: bolder;
+    color: darkgoldenrod;
+    font-size: 150%;
+}

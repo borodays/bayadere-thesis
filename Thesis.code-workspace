@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Library/Mobile Documents/com~apple~CloudDocs/Documents/School/2020-2021/Thesis/Software/VS Code"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bayadere-thesis"
+	}
+}
